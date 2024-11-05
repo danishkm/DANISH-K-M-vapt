@@ -15,11 +15,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 |Python keylogger| <a href="https://github.com/danishkm/Keylogger-">keylogger</a>
-|Port scanner| <a href="https://github.com/danishkm/Keylogger-">Detection Lab</a>|
+|Port scanner| <a href="https://github.com/danishkm/Keylogger-">Port_scanner</a>|
 |Vulnerability Scanner| <a href="https://github.com/danishkm/Keylogger-">Vulnscan</a>
 |Password Complexity Checker| <a href="https://github.com/danishkm/Keylogger-">Password_complexity</a>
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
 
 ## Tools
 
