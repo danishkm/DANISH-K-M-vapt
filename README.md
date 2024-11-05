@@ -24,14 +24,15 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### Reconnaissance and Information Gathering
 <div>
- <img src="https://img.shields.io/badge/Nmap-blue?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABH0lEQVQ4y2NgoA7A0lgIS9q3AeLsBII5vPv0bnAznXgPTCbwWaa8AMZpABWAUziE0nXy1UR4BLAMQBwCrMPOAMZYDFBrAVAFqYMCVQbQRoBuwPQDkBGgK+BtLgVS40g6gLGVANoAfEHmB7B8QJ+h5QDUBMgn0/qDsAGmUDRAQhixtABnVgAICjJLgZSX5MIggTwAvA/Cb4OCHkBjD8dK7dIomKwHgLDZzjLgCRBZHhfoAJkQA10BBNA20CVQcICDLQ6iMCYgENMAaDBBMCUCgApMTMApw4mIP5AEUYg5k9DYgCTIAYcJICFBrPBGQCmwlgWRMAKoAF7UBpQDwPkiA+kBvkiAfgDCJgBpQkDAEgAxBfUkW9SO0MAAAAASUVORK5CYII=" alt="Nmap Badge">
+ <img src="https://img.shields.io/badge/Nmap-blue?logo=nmap&style=flat-square" alt="Nmap Badge">
 
 <img src="https://img.shields.io/badge/theHarvester-orange?style=flat-square" alt="theHarvester Badge">
 
 ### Vulnerability Scanning
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/Nessus-green?style=flat-square&logo=tenable" alt="Nessus Badge">
+    <img src="https://img.shields.io/badge/Nikto-lightgrey?style=flat-square" alt="Nikto Badge">
+
 </div>
 
 ### SIEM
