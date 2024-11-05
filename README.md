@@ -37,7 +37,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### Exploitation 
 <div>
-    <img src="https://img.shields.io/badge/Metasploit-blue?style=flat-square&logo=metasploit"
+    <img src="https://img.shields.io/badge/Metasploit-blue?style=flat-square&logo=metasploit">
 
     <img src="https://img.shields.io/badge/Burp%20Suite-red?style=flat-square&logo=burpsuite" alt="Burp Suite Badge">
 
