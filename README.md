@@ -24,11 +24,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### Reconnaissance and Information Gathering
 <div>
- <img src="https://img.shields.io/badge/Tool-Nmap-blue?logo=nmap&style=flat-square" alt="Nmap Badge">
-<img src="https://img.shields.io/badge/Tool-theHarvester-orange?style=flat-square" alt="theHarvester Badge">
+ <img src="https://img.shields.io/badge/Nmap-blue?logo=nmap&style=flat-square" alt="Nmap Badge">
+<img src="https://img.shields.io/badge/theHarvester-orange?style=flat-square" alt="theHarvester Badge">
 
-
-### Endpoint
+### Vulnerability Scanning
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
