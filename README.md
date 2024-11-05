@@ -52,7 +52,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Keylogger 
+- Port scanner 
 
 [![TOOLS Used](https://skillicons.dev/icons?i=wireshark,SIEM)](https://skillicons.dev)
