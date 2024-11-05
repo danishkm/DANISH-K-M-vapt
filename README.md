@@ -22,12 +22,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Tools
 
-### Network
+### Reconnaissance and Information Gathering
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+ <img src="https://img.shields.io/badge/Tool-Nmap-blue?logo=nmap&style=flat-square" alt="Nmap Badge">
+<img src="https://img.shields.io/badge/Tool-theHarvester-orange?style=flat-square" alt="theHarvester Badge">
+
 
 ### Endpoint
 <div>
