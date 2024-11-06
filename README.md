@@ -56,5 +56,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - Port scanner
 - Vulnerability Scanner
 - Password Complexity Checker
+- <a href=https://github.com/danishkm/Password-Encryption-Tool>Password Encryption Tool md5,sha1,sha224<a>
   
 [![TOOLS Used](https://skillicons.dev/icons?i=wireshark,SIEM)](https://skillicons.dev)
