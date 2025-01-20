@@ -28,14 +28,14 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 <img src="https://img.shields.io/badge/theHarvester-orange?style=flat-square" alt="theHarvester Badge">
 
-### Vulnerability Scanning
+## Vulnerability Scanning
 <div>
     <img src="https://img.shields.io/badge/Nessus-green?style=flat-square&logo=tenable" alt="Nessus Badge">
     <img src="https://img.shields.io/badge/Nikto-lightgrey?style=flat-square" alt="Nikto Badge">
 
 </div>
 
-### Exploitation 
+## Exploitation 
 <div>
     <img src="https://img.shields.io/badge/Metasploit-blue?style=flat-square&logo=metasploit">
  <img src="https://img.shields.io/badge/Burp%20Suite-red?style=flat-square&logo=burpsuite" alt="Burp Suite Badge">
